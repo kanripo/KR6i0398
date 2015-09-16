@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:03.412170
+#+DATE: 2015-08-30 20:18:04.008142
 #+TITLE: 佛說五大施經
 #+PROPERTY: CBETA_ID T16n0706
 #+PROPERTY: ID KR6i0398
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 706
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0398_T_000-0813b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0398_T_001-0813b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.706¶
-
- 《佛說五大施經》¶
+No. 706¶
+《佛說五大施經》¶
 ¶
 西天譯經三藏朝奉大夫試光¶
 祿卿傳法大師賜紫沙門臣¶
